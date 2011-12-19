@@ -1,4 +1,7 @@
 .DS_Store
 error
-event/ContentLoaderEvent.as
-event/ContentQueueEvent.as
+ContentLoaderEvent.as
+ContentQueueEvent.as
+geom
+loader
+queue
